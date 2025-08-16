@@ -83,8 +83,5 @@ gui/
 ## Author
 
 **Ayanda Ndlovu** – Computer Science Graduate
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Ayanda-Ndlovu)
 
----
-
-Do you want me to also **write a short, catchy project description** suitable for the GitHub repository header?
